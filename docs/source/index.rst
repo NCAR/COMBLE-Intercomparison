@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to documentation for the COMBLE Intercomparison Modeling Study!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
