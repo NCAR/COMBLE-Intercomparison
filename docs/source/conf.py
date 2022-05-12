@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'COMBLE Intercomparison'
+copyright = '2022, Graziella'
 author = 'Graziella'
 
 release = '0.1'
