@@ -1,4 +1,4 @@
-COMBLE Intercomparison Modeling Study Documentation
+Welcome Page!
 ===================================
 
 ```{note}
