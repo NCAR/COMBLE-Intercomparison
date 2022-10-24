@@ -13,8 +13,6 @@ Please contact Tim Juliano (NCAR): tjuliano@ucar.edu OR Florian Tornow (NASA/GIS
 
 ## Table of Contents
 
-Here is an automatically generated Tabel of Contents:
-
 ```{tableofcontents}
 ```
   
