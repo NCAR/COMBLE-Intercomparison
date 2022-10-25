@@ -5,7 +5,7 @@ Welcome Page!
 This page is under active development.
 ```
 
-This website is used to host information about the upcoming Cold-Air Outbreaks in the Marine Boundary Layer Experiment (COMBLE) large-eddy simulation (LES) / single-column model (SCM) intercomparison efforts. We welcome you to explore the website to learn more about the intercomparison framework and workflow.
+This website is used to host information about the upcoming Cold-Air Outbreaks in the Marine Boundary Layer Experiment (COMBLE) large-eddy simulation (LES) / single-column model (SCM) intercomparison efforts. The intercomparison will focus on the 13 March Cold-Air Outbreaks (CAO) event (Fig. 1). We welcome you to explore the website to learn more about the intercomparison framework and workflow.
 
 ```{figure} 13march_case_overview.png
 
