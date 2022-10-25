@@ -1,4 +1,4 @@
-The Earth Model Column Collaboratory (EMC^2^)
+The Earth Model Column Collaboratory (EMC{sup}`2`)
 ===================================
 
 ```{note}
@@ -7,7 +7,7 @@ This page is under active development.
 
 ```{figure} emc2_1.png
 
-Direct comparison of the (top) observed attenuated backscatter from CALIOP with (bottom) simulated attenuated backscatter applying EMC^2^ to the NASA DHARMA LES model.
+Direct comparison of the (top) observed attenuated backscatter from CALIOP with (bottom) simulated attenuated backscatter applying EMC{sup}`2` to the NASA DHARMA LES model.
 ```
 
-Please contact Israel Silber (PSU): ixs34 ((at)) psu.edu for comments or questions about EMC^2^.
+Please contact Israel Silber (PSU): ixs34 ((at)) psu.edu for comments or questions about EMC{sup}`2`.
