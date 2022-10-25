@@ -2,6 +2,7 @@ jupyter-book
 matplotlib
 numpy
 netCDF4
+scipy
 sphinx-inline-tabs
 sphinx-examples
 sphinx-proof
