@@ -8,10 +8,6 @@ This page is under active development.
 This website is used to host information about the upcoming COMBLE large-eddy simulation (LES) / single-column model (SCM) intercomparison efforts. We welcome you to explore the website to learn more about the intercomparison framework and workflow.
 
 ```{figure} 13march_case_overview.png
----
-class: with-border
----
-
 This is the figure caption.
 ```
 
