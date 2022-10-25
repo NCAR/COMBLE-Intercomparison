@@ -4,6 +4,9 @@
 format: jb-book
 root: intro
 parts:
+- caption: About the Case
+  chapters:
+  - file: case_info
 - caption: Python Notebooks
   chapters:
   - file: create_comble_forcing_v1.1
