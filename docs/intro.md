@@ -16,7 +16,7 @@ This website is used to host information about the upcoming Cold-Air Outbreaks i
 If you are interested in participating in the LES/SCM COMBLE intercomparison, please [sign up here](https://docs.google.com/spreadsheets/d/1h0BDDCCJTfIsdvHHNFyA17bpsNAL7405GG69IkC8qJs/edit?usp=sharing).
 ```
 
-Please contact Tim Juliano (NCAR): tjuliano ((at)) ucar.edu OR Florian Tornow (NASA/GISS): ft2544 ((at)) columbia.edu for comments or questions.
+Please contact Tim Juliano (NCAR): tjuliano ((at)) ucar.edu OR Florian Tornow (NASA/GISS): ft2544 ((at)) columbia.edu for comments or questions about the model intercomparison project.
 
 ## Table of Contents
 
