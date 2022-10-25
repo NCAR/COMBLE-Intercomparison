@@ -10,3 +10,6 @@ parts:
 - caption: Python Notebooks
   chapters:
   - file: create_comble_forcing_v1.1
+- caption: Obs-Model Synergy
+  chapters:
+  - file: emc2
