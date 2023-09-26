@@ -1,9 +1,3 @@
-Template for the Read the Docs tutorial
-=======================================
+This repository is no longer active. Please visit `this page`_ for the most up-to-date information about COMBLE-MIP.
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+.. _this page: https://github.com/ARM-Development/comble-mip
